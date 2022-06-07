@@ -1,0 +1,23 @@
+{
+  "name": "sociss-class-nodejs",
+  "version": "1.0.0",
+  "description": "Base project for teaching and learing.",
+  "main": "begin.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiduy1998/begin-project-nodejs.git"
+  },
+  "keywords": [
+    "sociss",
+    "nodejs"
+  ],
+  "author": "Mai Duy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maiduy1998/begin-project-nodejs/issues"
+  },
+  "homepage": "https://github.com/maiduy1998/begin-project-nodejs#readme"
+}
